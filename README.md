@@ -7,6 +7,10 @@ Prácticas y material de conceptos y paradigmas de lenguajes de programación, c
     <summary> Resoluciones </summary>
     
       * [Práctica 1](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201%20resuelta.pdf)
+      * [Práctica 2](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202%20resuelta.pdf)
+      * [Práctica 3](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%203%20resuelta.pdf)
+      * [Práctica 4](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%204%20resuelta.pdf)
+      * [Práctica 5](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%205%20resuelta.pdf)
  
     </details>
  
