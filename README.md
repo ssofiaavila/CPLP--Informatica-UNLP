@@ -19,5 +19,5 @@ Prácticas y material de conceptos y paradigmas de lenguajes de programación, c
  --------
  ## Material ##
   * [Apuntes + resumenes](https://github.com/ssofiaavila/OO2--Informatica-UNLP/tree/main/Resumenes%20%2B%20apuntes)
-  * [Teorías](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/tree/main/Teor%C3%ADa)
+  * [Teorías](https://github.com/ssofiaavila/CPLP--Informatica-UNLP/tree/main/Teorías)
     
